@@ -1,5 +1,13 @@
 # Python Mini Projects 🚀
+<h1 align="center">Bharat Chandra Tadi</h1>
 
+<p align="center">
+  <img src="/assests/profile.jpeg" width="150" />
+</p>
+
+<p align="center">
+  BTech CSE Student | Aspiring Software Development Engineer
+</p>
 ## 📌 About
 This repository contains my Python mini projects built while learning Python through practice and hands-on coding.
 
@@ -9,7 +17,10 @@ This repository contains my Python mini projects built while learning Python thr
 
 ### 🔹 Basics
 - ✅ Simple Calculator  
-- ✅ Temperature Converter  
+- ✅ Temperature Converter
+- ✅ Leap Year Checker 
+- ✅ Odd/Even Number Dectector
+- ✅ Mutiplication Table Generator  
 
 ### 🔹 Strings & Collections
 - ⏳ Coming soon...
